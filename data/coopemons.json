@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Emberon",
+        "health": 100,
+        "attack": 20,
+        "moves": [
+            {
+                "name": "Fire Blast",
+                "power": 40
+            },
+            {
+                "name": "Flame Charge",
+                "power": 30
+            },
+            {
+                "name": "Heat Wave",
+                "power": 50
+            }
+        ]
+    },
+    {
+        "name": "Aqualis",
+        "health": 90,
+        "attack": 25,
+        "moves": [
+            {
+                "name": "Water Gun",
+                "power": 20
+            },
+            {
+                "name": "Aqua Jet",
+                "power": 25
+            },
+            {
+                "name": "Hydro Pump",
+                "power": 60
+            }
+        ]
+    },
+    {
+        "name": "Terragorn",
+        "health": 120,
+        "attack": 15,
+        "moves": [
+            {
+                "name": "Earthquake",
+                "power": 50
+            },
+            {
+                "name": "Rock Slide",
+                "power": 30
+            },
+            {
+                "name": "Mud Shot",
+                "power": 25
+            }
+        ]
+    },
+    {
+        "name": "Zephyra",
+        "health": 80,
+        "attack": 30,
+        "moves": [
+            {
+                "name": "Gust",
+                "power": 20
+            },
+            {
+                "name": "Hurricane",
+                "power": 45
+            },
+            {
+                "name": "Wind Slash",
+                "power": 35
+            }
+        ]
+    },
+    {
+        "name": "Pyrosyl",
+        "health": 95,
+        "attack": 22,
+        "moves": [
+            {
+                "name": "Fire Spin",
+                "power": 25
+            },
+            {
+                "name": "Lava Plume",
+                "power": 40
+            },
+            {
+                "name": "Flare Blitz",
+                "power": 55
+            }
+        ]
+    },
+    {
+        "name": "Hydraxis",
+        "health": 110,
+        "attack": 18,
+        "moves": [
+            {
+                "name": "Waterfall",
+                "power": 30
+            },
+            {
+                "name": "Surf",
+                "power": 50
+            },
+            {
+                "name": "Hydro Cannon",
+                "power": 70
+            }
+        ]
+    },
+    {
+        "name": "Crystallix",
+        "health": 85,
+        "attack": 28,
+        "moves": [
+            {
+                "name": "Diamond Storm",
+                "power": 50
+            },
+            {
+                "name": "Crystal Shard",
+                "power": 30
+            },
+            {
+                "name": "Reflect (WIP)",
+                "power": 0
+            }
+        ]
+    },
+    {
+        "name": "Electrion",
+        "health": 70,
+        "attack": 35,
+        "moves": [
+            {
+                "name": "Thunderbolt",
+                "power": 40
+            },
+            {
+                "name": "Volt Tackle",
+                "power": 50
+            },
+            {
+                "name": "Electro Ball",
+                "power": 60
+            }
+        ]
+    },
+    {
+        "name": "Glaciara",
+        "health": 105,
+        "attack": 20,
+        "moves": [
+            {
+                "name": "Ice Beam",
+                "power": 40
+            },
+            {
+                "name": "Blizzard",
+                "power": 60
+            },
+            {
+                "name": "Frost Breath",
+                "power": 30
+            }
+        ]
+    },
+    {
+        "name": "Voltarix",
+        "health": 95,
+        "attack": 23,
+        "moves": [
+            {
+                "name": "Spark",
+                "power": 25
+            },
+            {
+                "name": "Thunder Wave",
+                "power": 35
+            },
+            {
+                "name": "Wild Charge",
+                "power": 55
+            }
+        ]
+    }
+]

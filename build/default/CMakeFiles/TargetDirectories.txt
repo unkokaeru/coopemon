@@ -1,0 +1,3 @@
+C:/Users/wills/Documents/GitHub/Pokemon-Like Game/coopemon/build/default/CMakeFiles/coopemon.dir
+C:/Users/wills/Documents/GitHub/Pokemon-Like Game/coopemon/build/default/CMakeFiles/edit_cache.dir
+C:/Users/wills/Documents/GitHub/Pokemon-Like Game/coopemon/build/default/CMakeFiles/rebuild_cache.dir

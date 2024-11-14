@@ -1,0 +1,21 @@
+[
+    {
+        "controlled": true,
+        "health": 0,
+        "moves": [
+            {
+                "name": "Fire Blast",
+                "power": 40
+            },
+            {
+                "name": "Flame Charge",
+                "power": 30
+            },
+            {
+                "name": "Heat Wave",
+                "power": 50
+            }
+        ],
+        "name": "Emberon"
+    }
+]
